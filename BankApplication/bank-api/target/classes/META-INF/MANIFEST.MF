@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: dhile
+Build-Jdk: 10.0.2
+Created-By: Maven Integration for Eclipse
+Hash-version: 
+Implementation-version: 
+Project-version: 1.0-SNAPSHOT
+
